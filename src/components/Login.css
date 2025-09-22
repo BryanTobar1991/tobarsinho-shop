@@ -1,0 +1,25 @@
+/* src/components/Login.css */
+.card {
+  border-radius: 16px;
+  border: none;
+}
+
+.btn-primary {
+  background: linear-gradient(90deg, #007bff, #00c6ff);
+  border: none;
+  transition: 0.3s;
+}
+
+.btn-primary:hover {
+  background: linear-gradient(90deg, #0056b3, #0099cc);
+  transform: scale(1.02);
+}
+
+.btn-link {
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.btn-link:hover {
+  text-decoration: underline;
+}
